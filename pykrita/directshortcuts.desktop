@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=directshortcuts
+X-Python-2-Compatible=false
+#X-Krita-Manual=Manual.html
+Name=Direct Shortcuts
+Comment=Specify tool options with direct shorcuts rather than relative ones.

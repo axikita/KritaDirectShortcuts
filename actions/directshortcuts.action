@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Direct Shortcuts</text>
+
+        <Action name="setOpacity10">
+        <icon></icon>
+        <text>Set Opacity=10%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 10 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+1</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+        <Action name="setOpacity20">
+        <icon></icon>
+        <text>Set Opacity=20%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 20 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+2</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity30">
+        <icon></icon>
+        <text>Set Opacity=30%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 30 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+3</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity40">
+        <icon></icon>
+        <text>Set Opacity=40%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 40 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+4</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity50">
+        <icon></icon>
+        <text>Set Opacity=50%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 50 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+5</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity60">
+        <icon></icon>
+        <text>Set Opacity=60%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 60 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+6</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity70">
+        <icon></icon>
+        <text>Set Opacity=70%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 70 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+7</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity80">
+        <icon></icon>
+        <text>Set Opacity=80%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 80 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+8</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity90">
+        <icon></icon>
+        <text>Set Opacity=90%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 90 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+9</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+                <Action name="setOpacity100">
+        <icon></icon>
+        <text>Set Opacity=100%</text>
+        <whatsThis></whatsThis>
+        <toolTip>Sets current brush opacity to 100 percent</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+0</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
