@@ -2,7 +2,7 @@
 This script adds options to the shortcuts menu for setting the active brush opacity to a fixed value rather than "up" or "down" from the current value.
 
 ## Usage
-The default shortcut is ctrl+alt+shift+[number key] to set the opacity to [number key*10] percent. Thjese shortcuts are configurable in Krita's configuration settings.
+The default shortcut is ctrl+alt+shift+[number key] to set the opacity to [number key*10] percent. These shortcuts are configurable in Krita's configuration settings.
 - ctrl+alt+shift+1 = 10%
 - ctrl+alt+shift+2 = 20%
 - ctrl+alt+shift+3 = 30%
